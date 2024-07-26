@@ -1,0 +1,25 @@
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  margin: 0 auto;
+}
+form p {
+  font-size: 14px;
+  color: red;
+}
+input {
+  padding-bottom: 1rem;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  border-bottom: 1px solid black;
+}
+.btn {
+  display: flex;
+  margin: 0 auto;
+}
